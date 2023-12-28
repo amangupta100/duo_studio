@@ -1,0 +1,8 @@
+@media screen and (max-width:883px){
+    .nav{
+        height: 50px;
+    }
+    .nav .inner_cont{
+        height: 10px;
+    }
+}
